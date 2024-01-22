@@ -1,0 +1,44 @@
+html {
+  background-color: rgb(201, 217, 230);
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 95px;
+  text-align: center;
+  color: rgb(32, 130, 61);
+  font-family: Snell Roundhand, cursive;
+}
+
+h2,
+h3 {
+  font-size: 35px;
+  text-align: center;
+  padding: 25px;
+}
+
+p {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#tribute-info {
+  width: 780px;
+  margin: 0 auto;
+}
+
+a {
+  color: rgb(32, 130, 61);
+}
+li {
+  font-size: 18px;
+}
+figcaption {
+  text-align: right;
+}
